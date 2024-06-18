@@ -62,3 +62,4 @@ entity BusinessPartners as projection on external.A_BusinessPartner {
 key BusinessPartner,
 BusinessPartnerFullName as FullName,
 }
+//thirdcommit
